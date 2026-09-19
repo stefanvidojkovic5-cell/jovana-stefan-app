@@ -13,7 +13,7 @@ jobs:
 
       - name: Extract project
         run: |
-          unzip -q Jovana_Stefan_v37_LOGIN_FIX.zip -d project
+          unzip -q Jovana_Stefan_v40_DOGOVORENE_IZMENE.zip -d project
 
       - name: Fix Android Manifest
         run: |
